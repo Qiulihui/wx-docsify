@@ -47,7 +47,7 @@ if (isSSR) {
 }
 
 const params = {
-  port: 3000,
+  port: 4000,
   watch: ['lib', 'docs', 'themes'],
   middleware
 }
